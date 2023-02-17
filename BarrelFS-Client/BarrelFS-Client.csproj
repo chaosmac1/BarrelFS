@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>BarrelFS_Client</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CassandraCSharpDriver" Version="3.19.1" />
+      <PackageReference Include="LamLibAllOver" Version="2.5.0" />
+    </ItemGroup>
+
+</Project>
