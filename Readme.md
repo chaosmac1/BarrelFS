@@ -1,2 +1,2 @@
 # BarrelFS
-## Barrel File System
+## Barrel File Storage
