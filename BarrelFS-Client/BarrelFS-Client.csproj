@@ -12,4 +12,8 @@
       <PackageReference Include="LamLibAllOver" Version="2.5.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\BarrelFS-Lib\BarrelFS-Lib.csproj" />
+    </ItemGroup>
+
 </Project>

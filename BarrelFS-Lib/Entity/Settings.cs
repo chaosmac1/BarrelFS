@@ -1,4 +1,4 @@
-namespace BarrelFS_Client.Mapper; 
+namespace BarrelFS_Lib.Entity; 
 
 public class Settings {
     public string? Name { get; set; }

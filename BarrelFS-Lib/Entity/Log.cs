@@ -1,6 +1,6 @@
 using Cassandra;
 
-namespace BarrelFS_Client.Mapper; 
+namespace BarrelFS_Lib.Entity; 
 
 public class Log {
     public DateTime Time { get; set; }

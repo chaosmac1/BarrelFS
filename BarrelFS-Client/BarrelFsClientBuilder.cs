@@ -1,4 +1,6 @@
 using System.Net;
+using BarrelFS_Client.Facade;
+using BarrelFS_Client.Interface;
 using Cassandra;
 
 namespace BarrelFS_Client; 
